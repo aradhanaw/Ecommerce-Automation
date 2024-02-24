@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-19T19:03:05 NPT" name="Default suite" finished-at="2024-02-19T19:03:11 NPT" duration-ms="6079">
+    <groups>
+    </groups>
+    <test started-at="2024-02-19T19:03:05 NPT" name="Default test" finished-at="2024-02-19T19:03:11 NPT" duration-ms="6079">
+      <class name="Try.Cart">
+        <test-method signature="Add()[pri:0, instance:Try.Cart@47faa49c]" started-at="2024-02-19T19:03:05 NPT" name="Add" finished-at="2024-02-19T19:03:11 NPT" duration-ms="6040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+      </class> <!-- Try.Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
